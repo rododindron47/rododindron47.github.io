@@ -1,0 +1,41 @@
+.delius {
+    font-family: "Delius Swash Caps", cursive;
+    font-style: normal;
+}
+
+.main-padding {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+@media (min-width: 576px) {
+    .main-padding {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
+
+@media (min-width: 768px) {
+    .main-padding {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
+
+@media (min-width: 992px) {
+
+    .main-padding,
+    .header-padding {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .main-padding,
+    .header-padding {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
