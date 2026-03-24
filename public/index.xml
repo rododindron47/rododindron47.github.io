@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CONTENT INDEX on Sylvain Raout</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sylvainraout.fr/</link>
     <description>Recent content in CONTENT INDEX on Sylvain Raout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 16 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sylvainraout.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Hugo Post</title>
-      <link>http://localhost:1313/tests/test1/</link>
+      <link>https://sylvainraout.fr/tests/test1/</link>
       <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tests/test1/</guid>
+      <guid>https://sylvainraout.fr/tests/test1/</guid>
       <description>Welcome to My First Post 🚀 This is my first post using Hugo! 🎉&#xA;Hugo is a super fast static site generator.</description>
     </item>
     <item>
       <title>-- scotland J1 --</title>
-      <link>http://localhost:1313/posts/scotland/j1/</link>
+      <link>https://sylvainraout.fr/posts/scotland/j1/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/scotland/j1/</guid>
+      <guid>https://sylvainraout.fr/posts/scotland/j1/</guid>
       <description></description>
     </item>
     <item>
       <title>-- spain J1 --</title>
-      <link>http://localhost:1313/posts/spain/j1/</link>
+      <link>https://sylvainraout.fr/posts/spain/j1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/spain/j1/</guid>
+      <guid>https://sylvainraout.fr/posts/spain/j1/</guid>
       <description></description>
     </item>
   </channel>

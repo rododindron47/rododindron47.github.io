@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- spain index -- on Sylvain Raout</title>
-    <link>http://localhost:1313/posts/spain/</link>
+    <link>https://sylvainraout.fr/posts/spain/</link>
     <description>Recent content in -- spain index -- on Sylvain Raout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/spain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sylvainraout.fr/posts/spain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>-- spain J1 --</title>
-      <link>http://localhost:1313/posts/spain/j1/</link>
+      <link>https://sylvainraout.fr/posts/spain/j1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/spain/j1/</guid>
+      <guid>https://sylvainraout.fr/posts/spain/j1/</guid>
       <description></description>
     </item>
   </channel>
