@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green on Sylvain Raout</title>
-    <link>https://sylvainraout.fr/tags/green/</link>
+    <link>http://localhost:1313/tags/green/</link>
     <description>Recent content in Green on Sylvain Raout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://sylvainraout.fr/tags/green/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/green/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>-- scotland J1 --</title>
-      <link>https://sylvainraout.fr/posts/scotland/j1/</link>
+      <link>http://localhost:1313/posts/scotland/j1/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://sylvainraout.fr/posts/scotland/j1/</guid>
+      <guid>http://localhost:1313/posts/scotland/j1/</guid>
       <description></description>
     </item>
   </channel>
